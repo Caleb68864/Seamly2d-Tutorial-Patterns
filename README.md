@@ -2,4 +2,4 @@
 ### This is a repository of the files from my tutorials
 
 Links to tutorial videos 
-* [Drafting a Backpack](https://youtu.be/OTcGzXTmtrQ)
+* <a href="https://youtu.be/OTcGzXTmtrQ" target="_blank">Drafting a Backpack]</a>
